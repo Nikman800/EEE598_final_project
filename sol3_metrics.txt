@@ -1,0 +1,13 @@
+COMPREHENSIVE ACCURACY METRICS (solAutoencoder3)
+============================================================
+
+MAE: 0.854 K
+RMSE: 3.578 K
+R2 Score: 0.99810
+Bias (ME): +0.025 K
+Correlation: 0.99905
+Max Error: 175.579 K
+Within +/-1K: 74.14%
+Within +/-2K: 92.56%
+Within +/-5K: 99.14%
+Accuracy Score: 0.9513
